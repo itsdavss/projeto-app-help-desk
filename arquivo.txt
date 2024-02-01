@@ -1,0 +1,4 @@
+1#Notebook não liga#Software#Toda vez que faço o login no perfil meu notebook reinicia
+3#Impressora com problema#Impressora#A impressora está corrompendo a impressão
+4#Problema de conexão#Rede#Meu PC não reconhece o cabo de rede
+3#Drivers antigos#Software#Drivers da minha máquina estão desatualizados
